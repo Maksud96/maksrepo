@@ -1,0 +1,59 @@
+body{
+	text-align: center;
+	background-image: linear-gradient(red,black,green);
+	color: white;	
+}
+#body{
+	background-color: rgba(0, 0, 204,0.2);
+	width: 550px;
+	text-align: left;
+	padding: 20px;
+	margin: auto;
+	border-radius: 10px;	
+}
+#name{
+	width: 400px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: green;
+	margin: 5px;
+}
+#email{
+	width: 400px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: green;
+	margin: 5px;
+}
+#number{
+	width: 400px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: green;
+	margin: 5px;
+}
+#dropdown{
+	width: 200px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: green;
+	margin: 5px;
+}
+#textarea{
+	width: 400px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: green;
+	margin: 5px;
+}
+#submit{	
+	padding: 10px;
+	border-radius: 20px;
+	border-color: green;
+	margin: 5px;	
+	background-color: rgb(255, 255, 153);
+}
+#submit:hover{
+	background-color: rgb(255, 0, 0);
+	color: white;
+}
